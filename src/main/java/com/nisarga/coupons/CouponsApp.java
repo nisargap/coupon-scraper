@@ -91,8 +91,6 @@ public class CouponsApp
 
                         hotelSearch(zipcode);
                     }
-
-
                 }
 
                 break;
